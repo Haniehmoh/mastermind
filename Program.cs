@@ -10,6 +10,16 @@ namespace mastermind
     {
         static void Main(string[] args)
         {
+            string couleur;
+
+            Console.WriteLine("bienvenue sur mastermind!");
+
+            Console.WriteLine("couleurs possibles :GYWPBMC");
+
+            Console.WriteLine("devine le code en 4 color");
+            couleur = Console.ReadLine();
+
+            
         }
     }
 }

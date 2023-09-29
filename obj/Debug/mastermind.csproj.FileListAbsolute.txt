@@ -1,0 +1,8 @@
+D:\master\mastermind\bin\Debug\mastermind.exe.config
+D:\master\mastermind\bin\Debug\mastermind.exe
+D:\master\mastermind\bin\Debug\mastermind.pdb
+D:\master\mastermind\obj\Debug\mastermind.csproj.AssemblyReference.cache
+D:\master\mastermind\obj\Debug\mastermind.csproj.SuggestedBindingRedirects.cache
+D:\master\mastermind\obj\Debug\mastermind.csproj.CoreCompileInputs.cache
+D:\master\mastermind\obj\Debug\mastermind.exe
+D:\master\mastermind\obj\Debug\mastermind.pdb
