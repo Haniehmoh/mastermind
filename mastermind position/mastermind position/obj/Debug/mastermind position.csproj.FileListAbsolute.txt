@@ -1,0 +1,7 @@
+C:\Users\hanie\source\repos\mastermind position\bin\Debug\mastermind position.exe.config
+C:\Users\hanie\source\repos\mastermind position\bin\Debug\mastermind position.exe
+C:\Users\hanie\source\repos\mastermind position\bin\Debug\mastermind position.pdb
+C:\Users\hanie\source\repos\mastermind position\obj\Debug\mastermind position.csproj.AssemblyReference.cache
+C:\Users\hanie\source\repos\mastermind position\obj\Debug\mastermind position.csproj.CoreCompileInputs.cache
+C:\Users\hanie\source\repos\mastermind position\obj\Debug\mastermind position.exe
+C:\Users\hanie\source\repos\mastermind position\obj\Debug\mastermind position.pdb

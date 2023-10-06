@@ -1,6 +1,5 @@
 ﻿using System;
-
-
+using System.ComponentModel;
 
 namespace Mastermind
 {
@@ -8,28 +7,21 @@ namespace Mastermind
     {
         static void Main(string[] args)
         {
+            //audeture : hanieh mohajerani
+            // prof : M.Ferrai-module 403
+            // date commencer:25.08.2023
+
+
             // Random for the combination of colors
             Random random = new Random();
 
+            // message bienvenue et message entre //
 
+            Console.WriteLine("BIENVENUE");
+            Console.WriteLine("Couleurs possibles:GYWRBMC");
+            Console.WriteLine("Devine le code en 4 coleurs: ");
 
-
-
-          
-            string nom;
-
-
-
-
-
-            // message bienvenue //
-            
-            Console.WriteLine("Mastermind Game");
            
-            Console.WriteLine("");
-            Console.Write("entrez votre nom: ");
-            nom = Console.ReadLine();
-            Console.WriteLine("bienvenue" + nom + ".");
             Console.WriteLine("vous voulez jouer? [o]");
 
 
@@ -45,54 +37,69 @@ namespace Mastermind
                 // Random combination de "RGBY" //
                 for (int i = 0; i < 4; i++)
                 {
-                    int x = random.Next(4);
-                    if (x == 0)
+                    int color = random.Next(4);
+                    if (color == 0)
                     {
                         secret = secret + 'R';
                     }
-                    else if (x == 1)
+                    else if (color == 1)
                     {
                         secret = secret + 'G';
                     }
-                    else if (x == 2)
+                    else if (color == 2)
                     {
                         secret = secret + 'B';
                     }
-                    else if (x == 3)
+                    else if (color == 3)
                     {
                         secret = secret + 'Y';
                     }
                 }
                 // Secret Combination //
-               Console.WriteLine($"secret est {secret}");
+              // Console.WriteLine($"secret est {secret}");
 
 
 
                 // Instructions // 
-                Console.WriteLine("Vous devez trouver la combinaison de couleurs secrète avec la lettre:");
-              Console.WriteLine("R-G-B-Y");
+               // Console.WriteLine("Vous devez trouver la combinaison de couleurs secrète avec la lettre:");
+             // Console.WriteLine("R-G-B-Y");
 
-
-                // Conditions gagner ou perdu //
-                if (Console.ReadLine() == secret)
+                //condition pour essayer 10 fois
+                for(int i =0;i <10; i++)
                 {
+                    Console.Write("essaie:" );
+                    // Conditions gagner ou perdu //
+                    if (Console.ReadLine() == secret)
+                    {
                     
-                    Console.WriteLine("gagner-bravo!");
+                        Console.WriteLine("gagner-bravo!");
                    
-                    Console.WriteLine("vous voulez jouer encore? [o/n]");
+                        
+                    }
+                    else
+                    {
+                        Console.WriteLine("perdu ");
+                        
+                    }
                 }
-                else
-                {
-                    Console.WriteLine("perdu ");
-                    Console.WriteLine("vous voulez jouer encore ? [o/n]");
-                }
-
+                Console.WriteLine("vous voulez jouer encore? [o/n]");
+              
 
 
             }
         }
     }
 }
+/*int[] array1 ={1,2,3,4};
+ * int[] array2 ={1,2,3,4};
+ * bool areEqual = array1.SequenceEquel (array 2);
+ * Console.WriteLine(AREeQUAL); */
+
+/* string [] color1= randomcolor
+ * string [] color 2 =secretcolor
+ * string commoncolor =color =color.Intersecret(color);
+ * ConsoleWriteLine("color juste" + commoncolor.count());
+ * Console.ReadLine();
 
 
 
