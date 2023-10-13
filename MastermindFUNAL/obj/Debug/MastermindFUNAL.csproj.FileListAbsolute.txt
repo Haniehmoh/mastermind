@@ -1,0 +1,8 @@
+D:\cours\Module 403\MastermindFUNAL\bin\Debug\MastermindFUNAL.exe.config
+D:\cours\Module 403\MastermindFUNAL\bin\Debug\MastermindFUNAL.exe
+D:\cours\Module 403\MastermindFUNAL\bin\Debug\MastermindFUNAL.pdb
+D:\cours\Module 403\MastermindFUNAL\obj\Debug\MastermindFUNAL.csproj.AssemblyReference.cache
+D:\cours\Module 403\MastermindFUNAL\obj\Debug\MastermindFUNAL.csproj.SuggestedBindingRedirects.cache
+D:\cours\Module 403\MastermindFUNAL\obj\Debug\MastermindFUNAL.csproj.CoreCompileInputs.cache
+D:\cours\Module 403\MastermindFUNAL\obj\Debug\MastermindFUNAL.exe
+D:\cours\Module 403\MastermindFUNAL\obj\Debug\MastermindFUNAL.pdb
