@@ -14,10 +14,10 @@ namespace mastermind_position
 
 
 
-        /*Créer le jou mastermind avec les colores secrets et random
+        /*Créer le jou mastermind avec les colores secrets les position 
          prof:Jonathan Melly
          par :Hanieh Mohajerani
-        date de commence:08.09.2023*/
+         date de commence:08.09.2023*/
 
 
 
@@ -29,6 +29,7 @@ namespace mastermind_position
             Console.WriteLine("Jeu Mastermind");
             Console.WriteLine("Bienvenue, ");
             Console.WriteLine("Vous devez trouver la combinaison de couleurs secrète avec les lettres : R - G - B - Y");
+            Console.WriteLine("Essaiez avez majuscule");
 
 
 
@@ -94,7 +95,7 @@ namespace mastermind_position
 
                     }
 
-                    //B
+                    //color position
                     int bInSecret = 0;
                     int bInAnswer = 0;
                     for (int i = 0; i < 4; i++)
