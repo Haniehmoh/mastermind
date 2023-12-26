@@ -1,0 +1,34 @@
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe.config
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.pdb
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.AssemblyReference.cache
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Form1.resources
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Properties.Resources.resources
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.GenerateResource.cache
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.CoreCompileInputs.cache
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.exe
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.pdb
+D:\cours\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.SuggestedBindingRedirects.cache
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe.config
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.pdb
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.AssemblyReference.cache
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.SuggestedBindingRedirects.cache
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Game.resources
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Menu.resources
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Properties.Resources.resources
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.GenerateResource.cache
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.CoreCompileInputs.cache
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.exe
+G:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.pdb
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.exe.config
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.AssemblyReference.cache
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Game.resources
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Menu.resources
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.Properties.Resources.resources
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.GenerateResource.cache
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.csproj.CoreCompileInputs.cache
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.exe
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\obj\Debug\GRAPHIQUE.pdb
+D:\cours\Semestre 2\projet module 404\GRAPHIQUE\GRAPHIQUE\bin\Debug\GRAPHIQUE.pdb
